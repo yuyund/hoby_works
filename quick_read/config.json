@@ -1,0 +1,13 @@
+{
+  "interval": 0.2,
+  "colors": [
+    "red",
+    "green",
+    "blue",
+    "black",
+    "white"
+  ],
+  "color_index": 3,
+  "speed": 6,
+  "speed_max": 10
+}
